@@ -1,10 +1,10 @@
-# Privacy Policy for foldLM
+# Privacy Policy for NotebookFolderManager
 
 ## Overview
-foldLM is a browser extension designed to help users organize their NotebookLM notebooks into folders using the Chrome Storage API.
+NotebookFolderManager is a browser extension designed to help users organize their NotebookLM notebooks into folders using the Chrome Storage API.
 
 ## Data Collection & Storage
-- **Local Storage**: foldLM uses Chrome's `storage.sync` API to store folder organization data locally on your device
+- **Local Storage**: NotebookFolderManager uses Chrome's `storage.sync` API to store folder organization data locally on your device
 - **User Data**: We only store:
   - Folder names and metadata
   - Notebook organization preferences
